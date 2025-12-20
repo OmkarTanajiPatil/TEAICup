@@ -1,0 +1,4 @@
+# Ignore all top-level folders except Pandas (keep root files tracked)
+/*/
+!/Pandas/
+!/Pandas/**
