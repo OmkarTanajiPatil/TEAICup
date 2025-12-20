@@ -76,3 +76,16 @@ L3 is the actual measured values from the camera systems
 4. **No graph plotted is outside the given upper and lower limits**
 
 5. ##### Now we have to plot the points on the graph where the anamoly is detected and pointed out in final file
+
+
+# Insights Day 3 
+### Date: 20-12-2025 09:12 
+
+1. d3
+    - The machine is stopped only when 
+        - description -> **Bruderer**
+        - It is totally Mannual 
+    - We can **remove the bruderer** part 
+
+2. d3
+    - No relation between status code and machine description (ie 200 - Kamera -> False) 
