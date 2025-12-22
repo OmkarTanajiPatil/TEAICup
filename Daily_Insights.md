@@ -89,3 +89,15 @@ L3 is the actual measured values from the camera systems
 
 2. d3
     - No relation between status code and machine description (ie 200 - Kamera -> False) 
+
+3. Min and Max Time of Data
+    d1 -> Time range: 2025-12-05 06:00:00 to 2025-12-10 06:05:06
+    d2 -> Time range: 2025-12-05 08:15:13 to 2025-12-10 11:08:06
+    d3 -> Time range: 2025-12-05 08:34:54 to 2025-12-09 21:00:19
+
+    For Consistency choose
+    **Intersection → Time range: 2025-12-05 08:15:13 to 2025-12-09 21:00:19**
+    **Lumpsum → Time range:** **2025-12-05 08:15:13 to  2025-12-10 06:05:06**
+
+4. d3
+    - **IMP** The data present in d3 dataset , no data is present at the same time in any on d1 and d2
