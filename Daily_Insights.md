@@ -111,3 +111,7 @@ L3 is the actual measured values from the camera systems
     - Using **Min, Max, Mean, Std, range(max -min), % of values outside limit, count of outside values, max deviation from nominal**
     - Chatgpt link: https://chatgpt.com/share/69490e3b-955c-800d-b484-1f7df897c12f
     
+
+Check timestamp + and -
+Polars
+
