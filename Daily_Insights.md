@@ -101,3 +101,13 @@ L3 is the actual measured values from the camera systems
 
 4. d3
     - **IMP** The data present in d3 dataset , no data is present at the same time in any on d1 and d2
+
+
+# Insights Day 3 
+### Date: 20-12-2025 09:12 
+
+1. Doing Visulisations 
+    - Not only based on average
+    - Using **Min, Max, Mean, Std, range(max -min), % of values outside limit, count of outside values, max deviation from nominal**
+    - Chatgpt link: https://chatgpt.com/share/69490e3b-955c-800d-b484-1f7df897c12f
+    
