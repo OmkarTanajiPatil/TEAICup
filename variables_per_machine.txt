@@ -1,0 +1,48 @@
+machine_id : S-226
+Unique Variables: 
+['stpStepFrIda' 'teil2Wire' 'teil2Iso' 'iTeil2IsostempelDef'
+ 'folgefehlerTeil12' 'teil1GapY' 'teil1GapX' 'iTeil1Rastfeder'
+ 'iTeil1Rastfederdifferenz' 'prfungTeil1KastenSpk' 'teil2GapY' 'teil2GapX'
+ 'iTeil2Rastfeder' 'iTeil2Rastfederdifferenz' 'prfungTeil2BodySpk'
+ 'testMittelwertTeil1GapX' 'testMittelwertTeil1GapY' 'iTeil2Crimp'
+ 'testMittelwertTeil2GapX' 'iTeil2KastenHinten' 'iTeil1IsostempelDef'
+ 'achtungTeil12Vertauscht' 'iTeil1KastenVorne' 'iTeil1KastenHinten'
+ 'iTeil1Crimp' 'teil1Wire' 'teil1Iso' 'iTeil2KastenVorne'
+ 'testMittelwertTeil2GapY']
+-------------------------------
+machine_id : S-276
+Unique Variables: 
+['gapLinks' 'iDeformationFeder' 'iFreischnittLamelleUnten'
+ 'iFreischnittLamelleOben' 'iKastenVorne' 'iKastenHinten' 'wire' 'iso'
+ 'sp1DlErkennungErgebnis' 'sp2DlErkennungErgebnis' 'l-tstelleBody'
+ 'l-tstelleFeder' 'gapRechts']
+-------------------------------
+machine_id : S-268
+Unique Variables: 
+['spur1Iso' 'spur1Gap' 'spur2IKastenMitte' 'spur1Wire'
+ 'spur1IKastenHinten' 'spur1IKastenMitte' 'spur1IKastenVorne'
+ 'spur2IKastenHinten' 'spur2Wire' 'spur2Iso' 'spur2Gap'
+ 'spur2DeformationFeder' 'spur1DeformFeder' 'spur2IKastenVorne']
+-------------------------------
+machine_id : S-223
+Unique Variables: 
+['teil1GapX' 'teil2Iso' 'teil2Bodyltstelle' 'federdeckelDeformiert'
+ 'teil2GapX' 'teil2GapY' 'teil2Federltstelle' 'teil1GapY'
+ 'iT1RastfederDeformiert' 'iT1Rastfederdifferenz' 'iT1KastenVorne'
+ 'iT1KastenHinten' 'teil1Wire' 'teil1Iso' 'teil1Bodyltstelle'
+ 'teil1Federltstelle' 'iT2KastenVorne' 'iT2KastenHinten'
+ 'iT2RastfederDeformiert' 'iT2Rastfederdifferenz' 'teil2Wire'
+ 'iT2CrimpDeformiert']
+-------------------------------
+machine_id : S-269
+Unique Variables: 
+['spur2IKastenMitte' 'spur2DeformationFeder' 'spur2Gap' 'spur2Iso'
+ 'spur2Wire' 'spur2IKastenHinten' 'spur2IKastenVorne' 'spur1IKastenVorne'
+ 'spur1Gap' 'spur1Iso' 'spur1Wire' 'spur1IKastenHinten'
+ 'spur1IKastenMitte' 'spur1DeformationFeder']
+-------------------------------
+machine_id : S-278
+Unique Variables: 
+['gapEL' 'berdehnschutz' 'gapFM' 'gapDK' 'gapCJ' 'gapBH' 'gapAG'
+ 'l-tstelleBody' 'iso' 'rastfeder' 'bodyRear' 'bodyFront' 'wire']
+-------------------------------
